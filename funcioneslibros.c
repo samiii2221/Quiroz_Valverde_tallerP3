@@ -117,7 +117,7 @@ void buscar_libro(Biblioteca *biblioteca) {
     }
 
     int opcion;
-    printf("\n🔍 BUSCAR LIBRO\n");
+    printf("\n BUSCAR LIBRO\n");
     printf("1. Buscar por ID\n");
     printf("2. Buscar por titulo\n");
     printf("Seleccione una opcion: ");
